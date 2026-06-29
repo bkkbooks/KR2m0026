@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR2m0026/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2m0026/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大金德運圖說
+  date: '2015-08-24 22:51:30.986109'
+  source:
+    repository: kanripo
+    path: KR2m0026
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2m0026_000-WYG.yaml, hash: 'sha256:24589c796d5d61279d8de48c0ffb24df467b605534e37f4dfa091c3113057da1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2m0026_000-WYG.markers.yaml, hash: 'sha256:7d0d3e1090b5afddb445d769ad60122237a177de79bd4fa3f0d769417faef1c6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2m0026_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 525
+  label: 御題大金徳運圖説有序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0026_WYG_000-3a
+    span:
+    - body
+    - 525
+    - 1101
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0026_WYG_000-6a
+    span:
+    - body
+    - 1101
+    - 1677
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0026_WYG_000-9a
+    span:
+    - body
+    - 1677
+    - 7289
+  label: 大金徳運圖説
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0026_WYG_000-30a
+    span:
+    - body
+    - 7289
+    - 12901
+  label: 大金徳運圖説
+  type: section
+  level: 1
+hash: sha256:afe51aae3f557d009120608fdf55187642ee3e44937dba1b840a124fe09c0023
