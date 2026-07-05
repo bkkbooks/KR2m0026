@@ -20,14 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - seq: 0
-    filename: KR2m0026_000.yaml
-    hash: sha256:10055d15b4a3814beca65388a54d1a88f5bd3a6d43a1049c5391f920b3af7cbd
+  - {seq: 0, filename: KR2m0026_000.yaml, hash: 'sha256:66f0aae561224884e8723b42d557fc11b1837e9670645fbc044ead4b717c5c7e'}
   markers:
-  - seq: 0
-    role: markers
-    filename: assets/KR2m0026_000.markers.yaml
-    hash: sha256:6c0fa4e8b2b1b4a8290bc31f2420dde8f058fbef3214f7467794b3dab46e422b
+  - {seq: 0, role: markers, filename: assets/KR2m0026_000.markers.yaml, hash: 'sha256:a44219c4d8353f1aaef8e3f6e0cc5915a27cee677b4518911c77df931b97a5e5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -69,7 +64,4 @@ table_of_contents:
   label: 大金徳運圖説
   type: section
   level: 1
-hash: sha256:4b8d4aef090859e2ad64cb7e34c1f67abb77d8d2bcc99583d054bc3f551bc61f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:690d9df14f81c565ecc04a50bb52d31a47b1a2cdebbeae79fa03a4b3c4cf8cd7
