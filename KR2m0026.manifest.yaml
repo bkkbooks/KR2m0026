@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2m0026_000.yaml, hash: 'sha256:9285a8cd864e891d23b53b4510c2351f3005cae4439b64f70d497c3aedc19896'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0026_000.markers.yaml, hash: 'sha256:44b98fa67689df15b74a821c74658efd5857c198eb9d56da7ebc2d2c0b0cb85c'}
+  - {seq: 0, role: markers, filename: assets/KR2m0026_000.markers.yaml, hash: 'sha256:1cb6c0f8bd789e3d04e3b9af76d7aa01c99a89a85d0bc878aea70e0b1e83784b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,7 @@ table_of_contents:
   label: 大金徳運圖説
   type: section
   level: 1
-hash: sha256:275c56dcb9d205b07487b7f8785910d5a9f0754b1181b0aabde573b9359d0c62
+hash: sha256:41d0815bca18b53210dcc69ba4c14e3a7c9dd106c6fb485829aa6cccb6e9e635
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

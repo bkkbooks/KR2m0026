@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2m0026_000-WYG.yaml, hash: 'sha256:24589c796d5d61279d8de48c0ffb24df467b605534e37f4dfa091c3113057da1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0026_000-WYG.markers.yaml, hash: 'sha256:421867bbe732f1ac69113eae423a87d45d54dd80bc92c7ac559dac625ecde471'}
+  - {seq: 0, role: markers, filename: assets/KR2m0026_000-WYG.markers.yaml, hash: 'sha256:43113c97fc2a00af0a272c0aa490b49feae709afd14feca3af6e95888d165d32'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,4 +71,4 @@ table_of_contents:
   label: 大金徳運圖説
   type: section
   level: 1
-hash: sha256:0e3f548e12b3ae03735e80f9e1ff028644a331a2e80598792e149a6ed12edb3c
+hash: sha256:8266c4af941830e3a9c58148bf1523e7fabcc5d267c62fffcb9227dc9db4baf8
